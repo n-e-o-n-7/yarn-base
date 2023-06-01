@@ -3,5 +3,9 @@
   "private": true,
   "scripts": {},
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@commitlint/config-conventional": "^17.6.5",
+    "commitlint": "^17.6.5",
+    "husky": "^8.0.3"
+  }
 }
